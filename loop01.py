@@ -59,3 +59,15 @@ for n in range (2, 7+1):
 for n in range (2, -2, -1):
     print(n)
     
+for x in range(25):
+    print(x)
+friends = ['ahmed', 'nadir', 'Danish', 'Shahrukh', 'inam']
+
+
+def friend_greeting (friends):
+    for friend in friends:
+        print("Hello " + friend + "!")
+
+
+friend_greeting(friends)
+
