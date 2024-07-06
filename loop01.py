@@ -70,4 +70,5 @@ def friend_greeting (friends):
 
 
 friend_greeting(friends)
+friend_greeting("SAQIB")
 
